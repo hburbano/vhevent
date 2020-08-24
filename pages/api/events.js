@@ -1,4 +1,4 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+// Using Next.js routes to get mocked Events
 
 export default (req, res) => {
   res.statusCode = 200
